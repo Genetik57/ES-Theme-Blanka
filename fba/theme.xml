@@ -8,7 +8,7 @@
 	<view name="system">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./_data/svg/logo.svg</path>
+			<path>./_data/images/logo.png</path>
     </image>
 
     <image name="consolegame" extra="true">
@@ -22,7 +22,7 @@
 	<view name="basic, detailed, video">
 	<!-- System Specific Images -->
 		<image name="logo">
-			<path>./_data/svg/logo.svg</path>
+			<path>./_data/images/logo.png</path>
 		</image>
 
 		<image name="overlay" extra="true">
