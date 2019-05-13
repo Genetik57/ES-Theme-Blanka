@@ -1,0 +1,12 @@
+<theme>
+    <formatVersion>3</formatVersion>
+
+  <!-- Uncomment the line of your choice to change the gamelist of your theme -->
+
+  <!-- <include>./_data/templates/bigshot.xml</include> -->
+  <!-- <include>./_data/templates/concise.xml</include> -->
+  <include>./_data/templates/landscape.xml</include>
+  <!-- <include>./_data/templates/pic_and_desc.xml</include> -->
+  <!-- <include>./_data/templates/portrait.xml</include> -->
+
+</theme>
